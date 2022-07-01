@@ -21,11 +21,11 @@ Outlet Type vs Outlet Sales
 
 A barplot of outlet type vs outlet sales. The larger the store the more sales it does on average.
 
-Outlet Size vs Outlet Sales
+Item Type vs Count
 
-![image](https://user-images.githubusercontent.com/105382201/176933479-986bf4ac-9a8d-48c2-a0e5-499fa9e5620a.png)
+![image](https://user-images.githubusercontent.com/105382201/176947558-b04d24aa-a6a1-4ef8-add1-c1b65f61f5e8.png)
 
-A barplot of outlet size vs outlet sales. The larger the store the more sales it does on average
+A barplot that expresses the count of each item type in the dataset
 
 Report the most important metrics
 

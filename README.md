@@ -27,7 +27,17 @@ Item Type vs Count
 
 A barplot that expresses the count of each item type in the dataset
 
-Report the most important metrics
+Conclusion
+
+-The Items bought are more of Low Fat
+
+-"Fruits and vegetables" and "Snack food" are the most sold items in all the stores with all sizes.
+
+-The Item Outles sales are high for both Low Fat and Regular Item types, so its not justified why all the outlets have more low fat products than regular.
+
+-The items with visibility near to zero is rarely purchased by the customers.
+
+The "Outlet_Establishment_Year" has no effect on the sales made by any outlet, as the number of sales made or the mean of all years are nearly the same .
 
 
 For further information
